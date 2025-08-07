@@ -17,7 +17,7 @@ A  front-end project assigned by Josh Technology Group.
 - JavaScript
 - No any Libaray used
 ## see this website here
-[JTGeats.com] (https://pawanroy001.github.io/JTGeats/)
+https://pawanroy001.github.io/JTGeats/
 
 ##  Author
 [Pawan Roy](https://github.com/pawanroy001)
