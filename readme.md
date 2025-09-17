@@ -1,6 +1,4 @@
-# JTGeats
-
-A  front-end project assigned by Josh Technology Group.
+# Eatzz
 
 ##  Features
 
