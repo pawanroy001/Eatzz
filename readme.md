@@ -15,7 +15,7 @@
 - JavaScript
 - No any Libaray used
 ## see this website here
-https://pawanroy001.github.io/JTGeats/
+https://pawanroy001.github.io/Eatzz/
 
 ##  Author
 [Pawan Roy](https://github.com/pawanroy001)
